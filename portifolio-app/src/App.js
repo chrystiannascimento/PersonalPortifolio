@@ -13,7 +13,7 @@ function App() {
     </nav>
     <section class="bg-aqua" id="welcome-section">
         <h1>Yo</h1>
-        <p>welcome</p>
+        <p>welcome to Chrystian's Page</p>
     </section>
     <section className="projects-section" id="projects">
         <h2>My Projects</h2>
